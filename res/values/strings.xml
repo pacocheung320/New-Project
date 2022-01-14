@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sharing about Hong Kong traditional craftsmanship</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sharing about Hong Kong traditional craftsmanship</string>
+    <string name="nav_header_subtitle">v 1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_information">Information</string>
+
+    <string name="Introduction">Introduction</string>
+    <string name="History">History</string>
+    <string name="Activities">Activities</string>
+    <string name="menu_home">Home</string>
+    <string name="home_information">This app is sharing information about Hong Kong traditional craftsmanship. \n\nIt including some of the traditional craftsmanship. \n\nHope that this app can help you know more about it.</string>
+    <string name="menu_betrothal">Betrothal Cakes Making Technique</string>
+    <string name="betrothal_intro">Betrothal cakes are a traditional wedding gift, a ceremonial exchange item and a gift offered by the bridegroom\'s family. The cakes are made with a wrap and filling. The recipe involves making lotus seed paste, adding the filling to a wrap, and baking.
+</string>
+    <string name="menu_dimsum">Chinese Dim Sum Making Technique</string>
+    <string name="dimsum_intro">Different types of Chinese dim sum are made by the Chinese restaurants of Hong Kong, with seasonal factors determining the availability of certain special items. The types mainly include salty dim sum, sweet dim sum and bun items.
+</string>
+    <string name="dimsum_history">After the opening of Hong Kong, many Guangzhou-style teahouses opened one after another. In the early days, they were mainly concentrated in the Central and Sheung Wan area. At that time, teahouses and restaurants were different types of restaurants. Teahouses provided "one cup and two pieces" - tea and snacks, while restaurants provided cocktail banquets. Later, the restaurant also operated the tea market, and the tea house was gradually replaced. Early dim sum focused on satiety, such as buns, cakes, glutinous rice chicken and cup rice, etc. The ingredients were also relatively cheap. In the 1920s, the competition in Hong Kong\'s restaurant industry was fierce, and "Chou Mei Dian" was launched one after another. The dim sum menu was changed every week as a touring, which greatly increased the styles of dim sum and the production technology continued to improve. In the past, snacks were made with lard, but modern people pursue health, and lard with higher saturated fatty acids has gradually been replaced. Dim sums that use offal such as pork run siu mai, and more complex dim sum such as ginger, onion and beef jiao are also less common nowadays. In order to reduce costs, the dim sum of many chain restaurants are now produced in central factories, or made in the Mainland and then frozen and shipped to Hong Kong. The number of restaurants making dim sum is decreasing. In terms of sales methods, in the past, the waiter would wear a shoulder strap and hold a large round bamboo cage for sale. Then came the push-pull dim sum carts with built-in steam ovens that can hold a lot of dim sum. Today, most restaurants use dim sum paper for customers to place orders. Small, medium, large, special, and top are clearly visible at a glance, and there is no need for waiters to order dim sums one by one at checkout.</string>
+    <string name="dimsum_activities">The dim sum culture is ever-changing. Among them, steamed siomai, crystal shrimp dumplings, seasonal sausage rolls, smooth shrimp rice vermicelli, chicken balls, glutinous rice chicken, mala cakes, salt water corners, etc. are classic dim sum for all ages. The cooking methods of dim sum are mainly steaming, baking, frying and deep-frying. The process of making dim sum is delicate and complicated. The dim sum chef usually has to come to the store two hours before the opening of the restaurant, such as kneading the dough, cooking the stuffing, cutting the ingredients, and seasoning.</string>
+    <string name="menu_gallery">Gallery</string>
+</resources>
